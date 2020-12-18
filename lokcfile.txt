@@ -1,0 +1,15 @@
+ <div class="clock">
+
+        <div class="hour">
+            <div class="hr" id="hr"></div>
+        </div>
+
+        <div class="min">
+            <div class="mn" id="mn"></div>
+        </div>
+
+        <div class="sc">
+            <div class="sc" id="sc"></div>
+        </div>
+
+    </div>
